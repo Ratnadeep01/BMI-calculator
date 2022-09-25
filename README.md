@@ -1,3 +1,1 @@
-# BMI-calculator
-This is the most simple and basic BMI calculator which calculates the BMI of any individual by taking the height and weight of the individual. This application mainly focusses on the basic UI design(front - end part) of a simplest BMI calculator and simple calculation irrespective of the age and gender of the individual....
-# Calculation part
+
